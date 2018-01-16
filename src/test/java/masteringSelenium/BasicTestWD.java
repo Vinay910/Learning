@@ -53,7 +53,7 @@ public class BasicTestWD extends DriverFactory {
 	@Test
 	public void googleMilkExample1() throws Exception
 	{
-		googleExampleThatSearchFor("Milk1");
+		googleExampleThatSearchFor("Milk2");
 		
 	}
 
