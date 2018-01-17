@@ -10,6 +10,7 @@
 	  2.45.0
 	  </selenium-version>
 	  <threads>2</threads>
+	  <browser>Chrome</browser>
   </properties>
   <build>
   	<plugins>
@@ -20,6 +21,9 @@
 	        <configuration>
 	        	<parallel>methods</parallel>
 	        	<threadCount>${threads}</threadCount>
+	        	<systemProperties>
+	        	<browser>${browser}</browser>
+	        	</systemProperties>
 	        	<includes>
 	        		<include>**/*WD.java</include>
 	        	</includes>
