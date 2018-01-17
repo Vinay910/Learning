@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: masteringSelenium.BasicTestWD
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 83.478 sec - in masteringSelenium.BasicTestWD
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 120.824 sec - in masteringSelenium.BasicTestWD
